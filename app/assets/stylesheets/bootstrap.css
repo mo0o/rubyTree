@@ -4613,9 +4613,9 @@ input[type="submit"].btn.btn-mini {
 .navbar .nav > li > a {
   float: none;
   padding: 10px 15px 10px;
-  color: #00C4CC;
+  color: #77B9E6;
   text-decoration: none;
-  text-shadow: 0 0.3px 4 #B0FDF7;
+  text-shadow: 1px 0px 0 #FAFAFA;
 }
 
 .navbar .nav .dropdown-toggle .caret {
